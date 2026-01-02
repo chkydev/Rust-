@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let num:u8=5;
+    println!("This is stored in num: {}",num);
 }
